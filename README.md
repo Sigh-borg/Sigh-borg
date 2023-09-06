@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sigh-borg
+- 👋 Hi, I’m Brian Ngeunjuntr
 - 👀 I’m interested in ... C++, AI, Data Science and Robotics
 - 🌱 I’m currently learning ... Computer Architecture, Web Development
 - 💞️ I’m looking to collaborate on ... Artifical Intelligence
